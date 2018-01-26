@@ -1,30 +1,10 @@
-
-![pyABC](doc/logo.png)
-
-
-Massively parallel, distributed and scalable ABC-SMC for Python with support
+# Massively parallel, distributed and scalable ABC-SMC for Python with support
 for the R language.
 
 
-Docs: [![docs](https://readthedocs.org/projects/pyabc/badge/?version=latest)](http://pyabc.readthedocs.io/en/latest/)
-Stable: [![Build Status](https://travis-ci.org/ICB-DCM/pyABC.svg?branch=master)](https://travis-ci.org/ICB-DCM/pyABC)
+This project has moved. It has its new home within the [Helmholtz Center Munich at the Institute of Computational Biology](https://www.helmholtz-muenchen.de/icb/index.html) within the group of [Data-driven Computational Modelling](https://www.helmholtz-muenchen.de/icb/research/groups/data-driven-computational-modelling/overview/index.html).
+pyABC's new github repository is located at [https://github.com/icb-dcm/pyabc](https://github.com/icb-dcm/pyabc).
 
-
-
-
-
-The documentation is hosted on RTD.
+The documentation is, as before, hosted at readthedocs.
 [Check the documentation](http://pyabc.readthedocs.io/en/latest/index.html)
-
-
-
-
-
-Examples
---------
-
-Many examples are available as Jupyter Notebooks in the
-[examples directory](doc/examples) and also as download and for
-online inepection in the
-[example section of the documentation](http://pyabc.readthedocs.io/en/latest/examples.html).
 

@@ -1,2 +1,0 @@
-class NotEnoughParticles(Exception):
-    pass
